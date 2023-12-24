@@ -18,7 +18,7 @@ hero:
 features:
   - icon: 🥭
     title: Mango
-    details: The Framework most useful and easy to use!
+    details: The Framework most useful and easy to use for all developers!
   - icon: 🚀
     title: 100% Optimized
     details: Optimized to make your game the less laggy possible.
