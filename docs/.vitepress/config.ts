@@ -3,13 +3,13 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'Magic Modules',
+  title: 'Mango Framework',
   description: 'The magic wand behind your roblox game.',
 
   themeConfig: {
     sidebar: [
       {
-        text: 'MModules',
+        text: 'Mango',
         items: [
           {
             text: 'Get Started',
