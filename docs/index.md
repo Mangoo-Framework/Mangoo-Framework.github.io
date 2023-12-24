@@ -6,7 +6,7 @@ hero:
   text: Mangoo Framework
   tagline: Powerfull Open Source Framework
   image:
-    src: https://github.com/MagicModules/MagicModules.github.io/blob/main/docs/icons/icon.png?raw=true
+    src: https://github.com/Mangoo-Framework/Mangoo-Framework.github.io/blob/main/docs/icons/icon.png?raw=true
     alt: Mangoo
   actions:
     - theme: brand
