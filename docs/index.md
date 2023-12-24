@@ -14,7 +14,7 @@ hero:
       link: /pages/Get Started/What Is MModules
     - theme: alt
       text: View On Github
-      link: https://github.com/MagicModules
+      link: https://github.com/Mangoo-Framework/
 features:
   - icon: 🥭
     title: Mango
