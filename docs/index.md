@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: MModules
-  text: Magic Modules
-  tagline: The magic wand behind your roblox game.
+  name: Mangoo
+  text: Mangoo Framework
+  tagline: Powerfull Open Source Framework
   image:
     src: https://github.com/MagicModules/MagicModules.github.io/blob/main/docs/icons/icon.png?raw=true
-    alt: MModules
+    alt: Mangoo
   actions:
     - theme: brand
       text: Get Started
