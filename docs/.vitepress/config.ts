@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'en-US',
   title: 'Mango Framework',
-  description: 'The magic wand behind your roblox game.',
+  description: 'Powerfull Open Source Framework.',
 
   themeConfig: {
     sidebar: [
