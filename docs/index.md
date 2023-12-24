@@ -16,9 +16,9 @@ hero:
       text: View On Github
       link: https://github.com/MagicModules
 features:
-  - icon: 🪄
-    title: Magical
-    details: So Magical that it's useful and easy to use!
+  - icon: 🥭
+    title: Mango
+    details: The Framework most useful and easy to use!
   - icon: 🚀
     title: 100% Optimized
     details: Optimized to make your game the less laggy possible.
